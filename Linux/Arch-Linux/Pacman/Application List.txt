@@ -29,7 +29,7 @@ Media Players
 sudo pacman -S kodi vlc cmus
 
 Web Browsers
-sudo pacman -S chromium
+sudo pacman -S chromium firefox
 
 Web Camera
 sudo pacman -S cheese kamoso
