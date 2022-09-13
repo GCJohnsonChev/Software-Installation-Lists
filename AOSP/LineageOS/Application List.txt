@@ -19,7 +19,7 @@ Google Play Store
 
 // Network Layer Blocking
 
-AdAway Root
+AdAway Network Level
 * https://www.F-Droid.org/packages/org.adaway/
 
 IP Range Blocker
