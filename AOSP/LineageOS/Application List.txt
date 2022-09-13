@@ -14,12 +14,13 @@ Google Play Store
  |   \(_)__ _(_) |_ __ _| | |_ _|_ _  / _|___ _ _ _ __  __ _| |_(_)___ _ _   / __| ___ __ _  _ _ _(_) |_ _  _ 
  | |) | / _` | |  _/ _` | |  | || ' \|  _/ _ \ '_| '  \/ _` |  _| / _ \ ' \  \__ \/ -_) _| || | '_| |  _| || |
  |___/|_\__, |_|\__\__,_|_| |___|_||_|_| \___/_| |_|_|_\__,_|\__|_\___/_||_| |___/\___\__|\_,_|_| |_|\__|\_, |
-        |___/                                                                                            |__/ 
+        |___/                                                                                            |__/
+// Digital Information Security
 
 // Network Layer Blocking
 
 AdAway Root
-* https://F-Droid.org/packages/org.adaway/
+* https://www.F-Droid.org/packages/org.adaway/
 
 IP Range Blocker
 * 
@@ -27,7 +28,12 @@ IP Range Blocker
 // Software and Network Firewalls
 
 AFWall+
-https://f-droid.org/en/packages/dev.ukanth.ufirewall/
+https://www.F-Droid.org/en/packages/dev.ukanth.ufirewall/
 
 Droidwall
-https://f-droid.org/en/packages/com.googlecode.droidwall/
+https://www.F-Droid.org/en/packages/com.googlecode.droidwall/
+
+// Network and Network Packet Logging
+
+Network Log
+* https://www.F-Droid.org/en/packages/com.googlecode.networklog/
