@@ -1,1 +1,33 @@
-...
+  ___       __ _                         ___                  _ _           _        
+ / __| ___ / _| |___ __ ____ _ _ _ ___  | _ \___ _ __  ___ __(_) |_ ___ _ _(_)___ ___
+ \__ \/ _ \  _|  _\ V  V / _` | '_/ -_) |   / -_) '_ \/ _ (_-< |  _/ _ \ '_| / -_|_-<
+ |___/\___/_|  \__|\_/\_/\__,_|_| \___| |_|_\___| .__/\___/__/_|\__\___/_| |_\___/__/
+// Software Repositories                         |_|
+
+F-Droid
+* https://www.F-Droid.org
+
+Google Play Store
+* https://Play.Google.com
+
+  ___  _      _ _        _   ___       __                    _   _            ___                  _ _        
+ |   \(_)__ _(_) |_ __ _| | |_ _|_ _  / _|___ _ _ _ __  __ _| |_(_)___ _ _   / __| ___ __ _  _ _ _(_) |_ _  _ 
+ | |) | / _` | |  _/ _` | |  | || ' \|  _/ _ \ '_| '  \/ _` |  _| / _ \ ' \  \__ \/ -_) _| || | '_| |  _| || |
+ |___/|_\__, |_|\__\__,_|_| |___|_||_|_| \___/_| |_|_|_\__,_|\__|_\___/_||_| |___/\___\__|\_,_|_| |_|\__|\_, |
+        |___/                                                                                            |__/ 
+
+// Network Layer Blocking
+
+AdAway Root
+* https://F-Droid.org/packages/org.adaway/
+
+IP Range Blocker
+* 
+
+// Software and Network Firewalls
+
+AFWall+
+https://f-droid.org/en/packages/dev.ukanth.ufirewall/
+
+Droidwall
+https://f-droid.org/en/packages/com.googlecode.droidwall/
